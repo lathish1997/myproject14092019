@@ -1,0 +1,8 @@
+D:\Claims Management System\Dao\ClaimsBusinessLayer\ClaimsBusinessLayer\obj\Debug\ClaimsBusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\760838\Desktop\Ladder Insurance Policy(LIC) 9132019\Dao\ClaimsBusinessLayer\ClaimsBusinessLayer\obj\Debug\ClaimsBusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\760838\Desktop\Ladder Insurance Policy(LIC) 9132019\Dao\ClaimsBusinessLayer\ClaimsBusinessLayer\bin\Debug\ClaimsBusinessLayer.dll
+C:\Users\760838\Desktop\Ladder Insurance Policy(LIC) 9132019\Dao\ClaimsBusinessLayer\ClaimsBusinessLayer\bin\Debug\ClaimsBusinessLayer.pdb
+C:\Users\760838\Desktop\Ladder Insurance Policy(LIC) 9132019\Dao\ClaimsBusinessLayer\ClaimsBusinessLayer\bin\Debug\ClaimsDataLayer.dll
+C:\Users\760838\Desktop\Ladder Insurance Policy(LIC) 9132019\Dao\ClaimsBusinessLayer\ClaimsBusinessLayer\bin\Debug\ClaimsDataLayer.pdb
+C:\Users\760838\Desktop\Ladder Insurance Policy(LIC) 9132019\Dao\ClaimsBusinessLayer\ClaimsBusinessLayer\obj\Debug\ClaimsBusinessLayer.dll
+C:\Users\760838\Desktop\Ladder Insurance Policy(LIC) 9132019\Dao\ClaimsBusinessLayer\ClaimsBusinessLayer\obj\Debug\ClaimsBusinessLayer.pdb

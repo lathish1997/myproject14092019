@@ -1,0 +1,78 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="style/Style.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+            background-image: Image/bg.png;
+            
+        }
+        .auto-style2 {
+            width: 30%;
+            text-align: center;
+            
+        }
+        .auto-style3 {
+            width: 50%;
+        }
+        .auto-style4 {
+            text-align: right;
+        }
+        .auto-style5 {
+            text-align: center;
+            font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+        </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        
+   
+        <table class="auto-style1">
+            <tr>
+                
+                <td class="auto-style2">
+                    <asp:HyperLink id="hyperlink1" 
+                  ImageUrl="~/Image/logo.PNG"
+                  NavigateUrl="Home.aspx"
+                  Target="_new"
+                  runat="server"
+                   Height="117px" Width="221px"/> 
+                    
+                </td>
+                <td class="auto-style3">
+                    <h1 class="auto-style5">Ladder Life Insurance</h1>
+                </td>
+                <td class="auto-style4">
+                    <div class="dropdown">
+                        <asp:Button ID="Button1" runat="server" CssClass="button button1" Text="Login" OnClick="Button1_Click" />
+                        <div class="dropdown-content">
+                            <a href="AdminLogin.aspx">Admin</a>
+                            <a href="Login.aspx">User</a>
+                         </div>
+</div>
+                </td>
+            </tr>
+        </table>
+       <div class="border">
+
+       </div>
+        
+     
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    <footer>
+        <p>Copyright &copy; 2019</p>
+    </footer>
+    </form>
+</body>
+</html>

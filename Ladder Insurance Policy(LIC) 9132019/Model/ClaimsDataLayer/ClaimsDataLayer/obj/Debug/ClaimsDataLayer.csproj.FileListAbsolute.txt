@@ -1,0 +1,4 @@
+D:\Claims Management System\Model\ClaimsDataLayer\ClaimsDataLayer\bin\Debug\ClaimsDataLayer.dll
+D:\Claims Management System\Model\ClaimsDataLayer\ClaimsDataLayer\bin\Debug\ClaimsDataLayer.pdb
+D:\Claims Management System\Model\ClaimsDataLayer\ClaimsDataLayer\obj\Debug\ClaimsDataLayer.dll
+D:\Claims Management System\Model\ClaimsDataLayer\ClaimsDataLayer\obj\Debug\ClaimsDataLayer.pdb
